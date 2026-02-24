@@ -1,3 +1,8 @@
 참석자 / 안건 / 논의 / 결정 / 액션아이템
+<<<<<<< HEAD
+블랙맘바
+=======
 사 sndkvladsncklassdvsdvsdavsadvd
 암온더넥스트레벨
+>>>>>>> a7ee0358f1771ffd54cb161692188f9bc52c7566
+할렐루야
